@@ -1,0 +1,37 @@
+section {
+    Margin-top:80px;
+    width: 48%;
+    float: left;
+}
+
+#contact {
+    height: 693px;
+}
+
+#gmap {
+    height:400px;
+    width:400px;
+}
+/*CONTACT FORM IFRAME**/
+
+#form1>#header {
+    visibility: hidden;
+    background-color: #c5c7d3;
+}
+
+/**MAP IFRAM SECTION**/
+
+
+/**PHYSICAL MAP SIDE **/
+
+#physical-info-side {
+   text-align: center;
+   margin-top:400px;
+   margin-right: 40px;
+   background-color: #5E6474;
+}
+
+/**PHYSICAL ADDRESS**/
+button {
+    background-color:;
+}
